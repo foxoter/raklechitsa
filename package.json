@@ -1,5 +1,6 @@
 {
   "name": "raklechitsa",
+  "homepage": "https://foxoter.github.io/raklechitsa/",
   "version": "1.0.0",
   "description": "project for raklechitsa.ru",
   "author": "",
@@ -18,6 +19,7 @@
     "dotenv": "^8.2.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
+    "gh-pages": "~2.0.1",
     "husky": "^4.2.5",
     "prettier": "^1.19.1"
   },
